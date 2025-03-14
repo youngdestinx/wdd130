@@ -6,9 +6,9 @@ aside {
     width: 20rem;
     margin: 1rem;
     border: 1px solid rgb(0, 0, 0 / 0.2); 
-    background-color: #eee;
-    color: #333;
-    text-align: center;
+    background-color: rgba(9, 0, 128, 0.619);
+    color: rgba(255, 255, 255, 0.393);
+    text-align: justify;
 }
 
 aside img {
