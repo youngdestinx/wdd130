@@ -57,6 +57,7 @@
     background: rgba(0, 0, 0, 0.3);
     background-size: cover;
     border-radius: 8px;
+    padding: 20px;
 }
 
 .hero article {
