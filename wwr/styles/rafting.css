@@ -81,12 +81,12 @@
     color: var(--primary-color);
     flex: 1;
     padding: 20px;
-    right: 0;
+    
 }
 
 .hero article img {
-    height: auto;
+    height: 100vh;
     width: 50%;
-    left: 0;
+    
 
 }
