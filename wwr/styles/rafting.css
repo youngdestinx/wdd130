@@ -84,7 +84,6 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
-    line-height: 1.5;
     color: var(--primary-color);
     margin: 0;
     position: relative;
@@ -96,6 +95,7 @@
     object-fit: cover;
     display: block;
     position: relative;
+    float: right;
 }
 /** Design the sector **/
 
