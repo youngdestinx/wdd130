@@ -64,39 +64,49 @@
 
 .design {
     display: flex;
-    position: relative;
     justify-content: space-between;
     background-color:rgba(0, #62C370, 0, 0.6);
     padding: 20px;
     width: 800px;
-    flex-direction: row;
     align-items: center;
     gap: 20px;
     max-width: 80%;
     border-radius: 10px;
 }
 
-.hero article img {
-    width: 250px;
-    height: auto;
-    object-fit: cover;
+.text {
+    flex: 1;
 }
 
-.design p {
-    position: relative;
+.text p {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-size: 18px;
     line-height: 1.5;
     color: var(--primary-color);
-    flex: 1;
     margin: 0;
+}
+
+.image {
+    flex-shrink: 0;
+}
+
+.image img {
+    width: 250;
+    height: auto;
+    object-fit: cover;
+    display: block;
 }
 
 @media (max-width: 768px) {
     .content {
         flex-direction: column;
         text-align: center;
+    }
+
+    .image img {
+        width: 100%;
+        max-width: 250px;
     }
 }
 
