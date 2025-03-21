@@ -87,8 +87,10 @@
     color: var(--primary-color);
     margin: 0;
     position: relative;
-    text-align: right;
+    text-align: left;
     flex: 1;
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .image img {
