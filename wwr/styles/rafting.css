@@ -77,16 +77,13 @@
     flex-direction: row;
 }
 
-.text {
-    flex: 1;
-}
 
 .text p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
-    color: var(--primary-color);
-    margin: 0;
+    color: var(--accent2-color);
+    margin: 20px;
     position: relative;
     text-align: left;
     flex: 1;
