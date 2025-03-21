@@ -87,6 +87,8 @@
     color: var(--primary-color);
     margin: 0;
     position: relative;
+    text-align: end;
+    flex: 1;
 }
 
 .image img {
