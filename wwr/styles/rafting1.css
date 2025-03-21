@@ -76,7 +76,11 @@
     position: relative;
 }
 
-.design p {
+.text {
+    flex: 1;
+}
+
+.text p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 18px;
