@@ -62,5 +62,43 @@
     
 }
 
+.hero article {
+    position: relative;
+    background-color: #62C370, 0.6;
+    text-align: justify;
+    width: fit-content;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
 
+.hero article img {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 40%;
+    height: auto;
+    flex: right;
+}
 
+.hero article p {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: small;
+    color: var(--primary-color);
+    text-align: justify;
+    float: left;
+}
+
+section h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    color: var(--primary-color);
+}
+
+section p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: var(--secondary-color);    
+}
