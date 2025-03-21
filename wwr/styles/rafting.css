@@ -62,31 +62,5 @@
     top: 80%;
 }
 
-.hero article {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: row;
-    width: 70%;
-    padding: 20px;
-    background:  rgba(0, #62C370, 0, 0.6);
-    height: auto;
-}
 
-.hero article p {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 18 px;
-    color: var(--primary-color);
-    flex: 1;
-    padding: 20px;
-    
-}
 
-.hero article img {
-    height: 100vh;
-    width: 50%;
-    
-
-}
