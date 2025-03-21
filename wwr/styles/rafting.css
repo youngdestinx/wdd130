@@ -91,10 +91,11 @@
     flex: 1;
     width: 80%;
     background-color: rgba(0, 0, 0, 0.6);
+    flex-direction: row;
 }
 
 .image img {
-    width: 40%;
+    width: 80%;
     height: auto;
     object-fit: cover;
     display: block;
