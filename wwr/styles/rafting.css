@@ -55,6 +55,7 @@
     position: relative;
     padding: 10px, 20px;
     background: rgba(0, 0, 0, 0.3);
+    background-size: cover;
     border-radius: 8px;
 }
 
