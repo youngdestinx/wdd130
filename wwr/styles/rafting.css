@@ -88,9 +88,8 @@
     flex: 1;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.6);
-    padding-block: 20px;
-    font-display: block;
-    margin-top: 80%;
+    padding: 20px, 20px;
+    margin-bottom: 80%;
 }
 
 .image img {
