@@ -9,10 +9,15 @@
 /* Design the header */
 header {
     display: grid;
-    grid-template-columns: minmax(20px), auto;
+    grid-template-rows: minmax(20px), auto;
     gap: 10px;
 }
 
+nav {
+    display: flex;
+    flex-direction: row;
+    
+}
 /* Design the div class selector
 
 .hero {
