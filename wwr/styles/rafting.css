@@ -44,7 +44,7 @@ a {
 nav {
     display: flex;
     flex-direction: row;
-    align-items: last baseline;
+    align-items: baseline;
     justify-content: space-around;
     flex: 1 1fr;
 }
