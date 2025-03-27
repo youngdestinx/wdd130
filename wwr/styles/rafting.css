@@ -40,6 +40,8 @@ a {
 nav {
     display: flex;
     gap: 5px;
+    align-items: center;
+    justify-content: space-around;
 }
 /* Design the div class selector
 
