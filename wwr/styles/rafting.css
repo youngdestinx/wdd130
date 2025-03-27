@@ -39,6 +39,7 @@ a {
 }
 nav {
     display: flex;
+    gap: 5px;
 }
 /* Design the div class selector
 
