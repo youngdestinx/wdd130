@@ -44,8 +44,7 @@ a {
 nav {
     display: flex;
     flex-direction: row;
-    align-items: stretch;
-    justify-content: space-around;
+    justify-content: space-between;
     flex: 1 1fr;
 }
 /* Design the div class selector
