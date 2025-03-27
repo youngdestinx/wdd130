@@ -19,8 +19,7 @@ header {
 header {
     display: grid;
     grid-template-columns: 2fr 5fr;
-    justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 nav {
