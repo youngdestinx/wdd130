@@ -5,11 +5,6 @@
     --accent2-color: #FCFFFD;
     --font-family:  "Roboto", sans-serif;
 }
-/* Design the entire webpage */
-html {
-    display: grid;
-    grid-template-columns: minmax(20px), auto;
-}
 
 /* Design the header */
 header {
