@@ -44,7 +44,6 @@ a {
 }
 nav {
     display: flex;
-    gap: 5px;
     align-items: center;
     justify-content: space-around;
     flex: 1;
