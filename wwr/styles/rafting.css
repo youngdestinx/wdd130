@@ -10,7 +10,7 @@
 header {
     display: grid;
     grid-template-columns: 1fr 4fr;
-    gap: 20px;
+    gap: 50px;
 }
 
     
