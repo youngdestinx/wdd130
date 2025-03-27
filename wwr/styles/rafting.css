@@ -18,7 +18,7 @@ header {
 
 header {
     display: grid;
-    grid-template-columns: 1fr 20fr;
+    grid-template-columns: 1fr 5fr;
     gap: 50px;
 }
 
@@ -35,7 +35,6 @@ a {
     text-decoration: none;
     color: #FCFFFD;
     line-height: 100px;
-    margin: 0;
     border-radius: 5px;
     padding: 10px;
     background-color: #1B2CC1;
