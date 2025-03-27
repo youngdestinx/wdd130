@@ -9,8 +9,8 @@
 /* Design the header */
 header {
     display: grid;
-    grid-template-rows: minmax(20px), auto;
-    gap: 10px;
+    grid-template-rows: minmax(30px) auto;
+    gap: 20px;
 }
 
 nav {
