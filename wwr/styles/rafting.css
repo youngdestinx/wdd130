@@ -9,7 +9,8 @@
 /* Design the header */
 header {
     display: grid;
-    grid-template-rows: minmax(20px), auto;
+    grid-template-columns: minmax(20px), auto;
+    gap: 10px;
 }
 
 /* Design the div class selector
