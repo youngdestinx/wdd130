@@ -9,7 +9,7 @@
 /* Design the header */
 header {
     display: grid;
-    grid-template-rows: minmax(30px) auto;
+    grid-template-rows: 1fr 4fr;
     gap: 20px;
 }
 
