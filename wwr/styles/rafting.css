@@ -13,12 +13,11 @@ header {
     padding: 10px;
     background-color: #62C370;
     border: 2px solid #1B2CC1;
-    background-size: 10px;
 }
 
 header {
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: 5px auto;
     gap: 50px;
 }
 
