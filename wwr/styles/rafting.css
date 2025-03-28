@@ -31,17 +31,22 @@ nav {
 }
 
 a {
+    flex: 1;
     text-align: center;
     text-decoration: none;
     color: #FCFFFD;
+    border-radius: 5px;
+    padding: 10px;
     background-color: #1B2CC1;
-    border: 2px solid #62C370;
+    margin: 5px;
 
 }
 nav {
     display: flex;
-    flex-direction: row;
-    flex: 1 1fr;
+    justify-content: space-between;
+    background: #333;
+    padding: 10px;
+    border-radius: 10px;  
 }
 /* Design the div class selector
 
