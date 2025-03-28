@@ -9,17 +9,13 @@
 /* Design the header */
 header {
     font-family: var(--font-family);
-    border-radius: 5px;
-    padding: 10px;
-    background-color: #62C370;
-    border: 2px solid #1B2CC1;
-    margin: 20px 20px
-}
-
-header {
     display: grid;
-    grid-template-columns: 2fr 5fr;
-    gap: 10px;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 20px;
+    background: #62C370;
+    padding: 15px 30px;
+    color: #FCFFFD;
 }
 
 nav {
@@ -27,8 +23,7 @@ nav {
     justify-content: space-between;
     background: #D89D6A;
     padding: 10px;
-    border-radius: 10px;
-     
+    border-radius: 10px;    
 }
 
 a {
@@ -41,7 +36,6 @@ a {
     background-color: #1B2CC1;
     border: 1px solid black;
     margin: 0px;
-    transition: 0.3s;
 }
 
 /* Design the div class selector
