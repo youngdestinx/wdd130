@@ -32,7 +32,7 @@ nav {
 }
 
 a {
-    flex: 1;
+    flex: 20px 1;
     text-align: center;
     text-decoration: none;
     color: #FCFFFD;
