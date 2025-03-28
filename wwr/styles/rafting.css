@@ -28,7 +28,7 @@ nav {
     background: #D89D6A;
     padding: 10px;
     border-radius: 10px;
-    border: 5px solid black;  
+     
 }
 
 a {
@@ -39,6 +39,7 @@ a {
     border-radius: 5px;
     padding: 10px;
     background-color: #1B2CC1;
+    border: 10px solid black;
     margin: 0px;
 
 }
