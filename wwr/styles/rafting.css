@@ -27,7 +27,8 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    border-radius: 10px;    
+    border-radius: 10px;
+    max-width: 120px;    
 }
 
 a {
