@@ -10,8 +10,8 @@
 header {
     font-family: var(--font-family);
     display: grid;
-    grid-template-columns: auto 1fr;
-    align-items: center;
+    grid-template-columns: 2fr auto;
+    align-items: right center;
     gap: 20px;
     background: #62C370;
     padding: 15px 30px;
@@ -21,15 +21,13 @@ header {
 .logo img {
     max-width: 120px;
     height: auto;
-    align-self: flex-end;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    border-radius: 10px;
-        
+    border-radius: 10px;       
 }
 
 a {
