@@ -18,6 +18,11 @@ header {
     color: #FCFFFD;
 }
 
+.logo img {
+    max-width: 120px;
+    height: auto;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
