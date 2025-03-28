@@ -41,7 +41,7 @@ a {
     background-color: #1B2CC1;
     border: 1px solid black;
     margin: 0px;
-
+    transition: 0.3s;
 }
 
 /* Design the div class selector
