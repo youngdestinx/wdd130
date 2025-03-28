@@ -12,7 +12,7 @@ header {
     display: grid;
     grid-template-columns: auto 1fr;
     align-items: center;
-    gap: 20px;
+    gap: 100px;
     background: #62C370;
     padding: 15px 30px;
     color: #FCFFFD;
@@ -21,7 +21,7 @@ header {
 .logo img {
     max-width: 120px;
     height: auto;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 nav {
