@@ -23,11 +23,11 @@ header {
 }
 
 nav {
-    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    background: #D89D6A;
     padding: 10px;
-    background-color: #D89D6A;
-    border: 2px solid #62C370;
-    zoom: 1.8;
+    border-radius: 10px;  
 }
 
 a {
@@ -41,13 +41,7 @@ a {
     margin: 5px;
 
 }
-nav {
-    display: flex;
-    justify-content: space-between;
-    background: #333;
-    padding: 10px;
-    border-radius: 10px;  
-}
+
 /* Design the div class selector
 
 .hero {
