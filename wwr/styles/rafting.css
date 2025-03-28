@@ -69,3 +69,10 @@ a {
     width: 100%;
     text-align: center;  
 }
+
+article {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    gap: 100px;
+}
