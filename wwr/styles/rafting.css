@@ -201,9 +201,9 @@ footer p {
 .sociallinks a {
     max-width: 100px;
     max-height: 50px;
-    z-index: -1;
 }
 .sociallinks img {
     max-width: 50px;
     max-height: 25px;
+
 }
