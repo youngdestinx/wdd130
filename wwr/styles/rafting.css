@@ -40,7 +40,7 @@ a {
     border-radius: 5px;
     padding: 10px;
     background-color: #1B2CC1;
-    border: 3px solid black;
+    border: 3px solid #FCFFFD;
     margin: 0px;
 }
 
@@ -65,7 +65,7 @@ a {
     font-size: 3rem;
     color: var(--accent2-color);
     padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, #D89D6A, 0.7);
     width: 100%;
     text-align: center;  
 }
@@ -81,7 +81,7 @@ article {
     flex: 4;
     font-family: var(--font-family);
     font-weight: bold;
-    color: #62C370;
+    color: #1B2CC1;
     padding: 10px;
 }
 
