@@ -179,7 +179,7 @@ footer {
     align-items: center;
     gap: 100px;
     background: #62C370;
-    max-height: 50px;
+    
 }
 
 footer p {
@@ -203,4 +203,5 @@ footer p {
     max-width: 100px;
     max-height: 50px;
     border: 3px solid blue;
+    object-fit: contain;
 }
