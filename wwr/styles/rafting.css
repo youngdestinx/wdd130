@@ -100,3 +100,7 @@ article img {
     margin-right: 100px;
     object-fit: cover;
 }
+
+.begins {
+    display: flex;
+}
