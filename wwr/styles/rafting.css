@@ -113,7 +113,7 @@ article img {
     font-weight: 400;
     font-size: 20px;
     padding: 10px;
-    color: #FCFFFD;
+    color: #1B2CC1;
 }
 
 .start {
@@ -125,11 +125,12 @@ article img {
 .start h2 {
     font-family: var(--font-family);
     font-weight: bold;
+    text-align: center;
     color: #62C370;
     padding: 10px;
 }
 
 .start img {
-    width: 500px;
+    width: 250px;
     object-fit: cover; 
 }
