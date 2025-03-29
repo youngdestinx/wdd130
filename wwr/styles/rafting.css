@@ -80,8 +80,8 @@ article {
 .text h2 {
     font-family: var(--font-family);
     font-weight: bold;
-    color: #FCFFFD;
-    border: 5px solid #1B2CC1;
+    color: #62C370;
+    background: rgba(0, 0, 0, 0.7);
 }
 
 .text p {
