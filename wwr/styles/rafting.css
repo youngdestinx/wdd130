@@ -158,8 +158,3 @@ article img {
     size: 100px;  
 }
 
-.find {
-    display: flex;
-    justify-content: space-around;
-    gap: 100px;
-}
