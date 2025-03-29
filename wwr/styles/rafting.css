@@ -175,6 +175,6 @@ article img {
 
 footer {
     display: grid;
-    grid-template-columns: 1fr minmax(150px);
+    grid-template-columns: 1fr 150px;
     align-items: center;
 }
