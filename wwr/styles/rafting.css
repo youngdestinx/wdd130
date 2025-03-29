@@ -172,3 +172,10 @@ article img {
     object-fit: contain;
     margin: 5;
 }
+
+footer {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    flex-direction: column-reverse;
+    align-items: center;
+}
