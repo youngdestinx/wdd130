@@ -128,7 +128,7 @@ article img {
 
 .start h2 {
     font-family: var(--font-family);
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     color: #1B2CC1;
     padding: 20px;
@@ -147,5 +147,20 @@ article img {
     display: grid;
     grid-template-rows: auto 1fr;
     gap: 2px;
+    justify-content: space-between;
+}
+.adventure h2 {
+    font-family: var(--font-family);
+    font-weight: bolder;
+    text-align: center;
+    color: #1B2CC1;
+    padding: 20px;
+    size: 100px;  
+}
 
+.find {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 100px;
+    justify-content: space-around;
 }
