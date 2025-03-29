@@ -91,4 +91,5 @@ article img {
     flex: 1;
     width: 200px;
     margin-left: 100px;
+    align-self: center;
 }
