@@ -148,8 +148,6 @@ article img {
     grid-template-rows: auto 1fr;
     gap: 2px;
     align-items: center;
-    max-width: 100%;
-    height: 100vh;
 }
 .adventure h2 {
     font-family: var(--font-family);
@@ -163,4 +161,9 @@ article img {
 
 .find {
     display: flex;
+    flex: 1;
+    max-width: 100%;
+    height: 100vh;
+    justify-content: space-around;
+    gap: 100px;
 }
