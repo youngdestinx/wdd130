@@ -106,3 +106,30 @@ article img {
     justify-content: space-between;
     gap: 20px;
 }
+
+.begins p {
+    flex: 2;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 10px;
+    color: #FCFFFD;
+}
+
+.start {
+    flex: 1;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.start h2 {
+    font-family: var(--font-family);
+    font-weight: bold;
+    color: #62C370;
+    padding: 10px;
+}
+
+.start img {
+    width: 500px;
+    object-fit: cover; 
+}
