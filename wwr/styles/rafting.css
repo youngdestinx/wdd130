@@ -122,6 +122,8 @@ article img {
     flex: 1;
     justify-content: space-between;
     gap: 5px;
+    max-width: 300px;
+    max-height: 300;
 }
 
 .start h2 {
@@ -134,7 +136,8 @@ article img {
 }
 
 .start img {
-    width: 300px;
+    max-width: 300px;
+    max-height: 200px;
     object-fit: cover;
-    margin-bottom: 300px; 
+    margin-bottom: 100px; 
 }
