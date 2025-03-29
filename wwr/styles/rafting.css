@@ -183,22 +183,22 @@ footer {
 
 footer p {
     font-family: var(--font-family);
-    font-weight: 400;
+    font-weight: bold;
     font-size: 20px;
-    padding: 20px;
-    color: #FCFFFD;
+    padding: 30px;
+    color: #1B2CC1;
     text-align: center;
-    margin-left: 65px;
+    margin-left: 150px;
 }
 
 .sociallinks {
     display: flex;
     flex: 1;
-    gap: 10px;
+    gap: 20px;
     justify-content: space-around;
 }
 
 .sociallinks img {
     max-width: 100px;
-    max-height: auto;
+    max-height: 50px;
 }
