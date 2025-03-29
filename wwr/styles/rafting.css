@@ -105,6 +105,7 @@ article img {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    background: #62C370;
 }
 
 .begins p {
@@ -113,7 +114,7 @@ article img {
     font-weight: 400;
     font-size: 20px;
     padding: 10px;
-    color: #1B2CC1;
+    color: #FCFFFD;
     margin-top: 100px;
 }
 
@@ -127,11 +128,11 @@ article img {
     font-family: var(--font-family);
     font-weight: bold;
     text-align: center;
-    color: #62C370;
+    color: solid #1B2CC1;
     padding: 10px;
 }
 
 .start img {
-    width: 500px;
+    width: 300px;
     object-fit: cover; 
 }
