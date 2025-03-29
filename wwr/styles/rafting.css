@@ -167,6 +167,6 @@ article img {
 
 .find img {
     max-width: 250px;
-    height: auto;
-    object-fit: cover;
+    height: 100px;
+    object-fit: contain;
 }
