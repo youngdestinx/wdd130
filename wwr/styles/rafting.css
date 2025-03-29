@@ -78,10 +78,11 @@ article {
 }
 
 .text h2 {
+    flex: 4;
     font-family: var(--font-family);
     font-weight: bold;
     color: #62C370;
-    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
 }
 
 .text p {
