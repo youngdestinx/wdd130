@@ -203,7 +203,6 @@ footer p {
     max-height: 50px;
 }
 .sociallinks img {
-    max-width: 50px;
-    max-height: 25px;
-
+    max-width: 100px;
+    max-height: 50px;
 }
