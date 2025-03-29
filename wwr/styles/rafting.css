@@ -179,6 +179,7 @@ footer {
     align-items: center;
     gap: 100px;
     background: #62C370;
+    width: 100px;
 }
 
 footer p {
@@ -186,7 +187,7 @@ footer p {
     font-weight: bold;
     font-size: 20px;
     padding: 30px;
-    color: #1B2CC1;
+    color: #FCFFFD;
     text-align: center;
     margin-left: 150px;
 }
