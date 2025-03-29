@@ -123,7 +123,7 @@ article img {
     justify-content: space-between;
     gap: 5px;
     max-width: 300px;
-    max-height: 300;
+    max-height: 300px;
 }
 
 .start h2 {
