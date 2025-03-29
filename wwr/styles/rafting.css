@@ -147,7 +147,7 @@ article img {
     display: grid;
     grid-template-rows: auto 1fr;
     gap: 2px;
-    justify-content: space-between;
+    align-items: center;
 }
 .adventure h2 {
     font-family: var(--font-family);
@@ -155,6 +155,10 @@ article img {
     text-align: center;
     color: #1B2CC1;
     padding: 20px;
-    size: 100px;  
+    size: 100px; 
+    height: auto; 
 }
 
+.find {
+    display: flex;
+}
