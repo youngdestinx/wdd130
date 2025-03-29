@@ -32,7 +32,7 @@ nav {
     margin-right: 75px;       
 }
 
-a {
+.name a {
     flex: 1;
     text-align: center;
     text-decoration: none;
@@ -198,10 +198,6 @@ footer p {
     justify-content: space-around;
 }
 
-.sociallinks a {
-    max-width: 100px;
-    max-height: 50px;
-}
 .sociallinks img {
     max-width: 100px;
     max-height: 50px;
