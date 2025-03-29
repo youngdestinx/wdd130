@@ -142,3 +142,10 @@ article img {
     object-fit: cover;
     margin-bottom: 250px; 
 }
+
+.adventure {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    gap: 2px;
+
+}
