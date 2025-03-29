@@ -161,13 +161,14 @@ article img {
 
 .find {
     display: flex;
-    flex: 200px 1;
+    flex: 1;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .find img {
     max-width: 250px;
     height: 250px;
     object-fit: contain;
-    margin: 10;
+    margin: 5;
 }
