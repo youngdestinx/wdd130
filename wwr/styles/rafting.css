@@ -77,6 +77,13 @@ article {
     width: 100%;
 }
 
+.text h2 {
+    font-family: var(--font-family);
+    font-weight: bold;
+    color: #FCFFFD;
+    border: 5px solid #1B2CC1;
+}
+
 .text p {
     flex: 4;
     font-family: var(--font-family);
@@ -84,7 +91,6 @@ article {
     font-size: 20px;
     padding: 10px;
     color: #FCFFFD;
-    text-shadow: 5px solid #1B2CC1;
 }
 
 article img {
