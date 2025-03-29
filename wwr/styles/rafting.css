@@ -130,6 +130,8 @@ article img {
     text-align: center;
     color: solid #1B2CC1;
     padding: 10px;
+    margin-bottom: 100px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .start img {
