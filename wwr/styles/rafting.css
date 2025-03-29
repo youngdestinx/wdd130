@@ -115,13 +115,12 @@ article img {
     font-size: 18px;
     padding: 20px;
     color: #FCFFFD;
-    margin-top: 300px;
 }
 
 .start {
     flex: 1;
     justify-content: space-between;
-    gap: 10px;
+    gap: 5px;
 }
 
 .start h2 {
@@ -138,5 +137,5 @@ article img {
 .start img {
     width: 300px;
     object-fit: cover;
-    margin-bottom: 100px; 
+    margin-bottom: 300px; 
 }
