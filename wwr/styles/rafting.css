@@ -121,7 +121,7 @@ article img {
 .start {
     flex: 1;
     justify-content: space-between;
-    gap: 5px;
+    gap: 1px;
     max-width: 300px;
     max-height: 300px;
 }
@@ -133,7 +133,6 @@ article img {
     color: #1B2CC1;
     padding: 20px;
     size: 100px;
-    margin-top: 200px;
 }
 
 .start img {
