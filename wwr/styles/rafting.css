@@ -74,13 +74,15 @@ article {
     display: flex;
     justify-content: space-between;
     gap: 100px;
+    width: 100%;
 }
 
-article p {
+.text p {
     flex: 4;
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 50%;
+    font-size: 10px;
+    padding: 10px;
     text-align: center;
     border: 3px, solid #D89D6A;
     border-radius: 5px;
@@ -89,7 +91,6 @@ article p {
 
 article img {
     flex: 1;
-    width: 200px;
+    width: 1fr;
     margin-left: 100px;
-    align-self: center;
 }
