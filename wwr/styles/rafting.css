@@ -65,7 +65,7 @@ a {
     font-size: 3rem;
     color: var(--accent2-color);
     padding: 20px;
-    background: rgba(0, 0, #D89D6A, 0.7);
+    background: #D89D6A, 0.7;
     width: 100%;
     text-align: center;  
 }
