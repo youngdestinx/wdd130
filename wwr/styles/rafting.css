@@ -162,11 +162,12 @@ article img {
 .find {
     display: flex;
     flex: 200px 1;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .find img {
     max-width: 250px;
-    height: 100px;
+    height: 250px;
     object-fit: contain;
+    margin: 10;
 }
