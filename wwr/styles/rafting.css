@@ -92,6 +92,6 @@ article {
 article img {
     flex: 1;
     width: 500px;
-    margin-left: 100px;
+    margin-right: 100px;
     object-fit: cover;
 }
