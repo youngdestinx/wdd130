@@ -115,7 +115,7 @@ article img {
     font-size: 18px;
     padding: 20px;
     color: #FCFFFD;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .start {
@@ -130,12 +130,12 @@ article img {
     text-align: center;
     color: #1B2CC1;
     padding: 10px;
-    margin-top: 100px;
+    margin-top: 200px;
 
 }
 
 .start img {
-    width: 300px;
+    width: 500px;
     object-fit: cover;
     margin-bottom: 100px; 
 }
