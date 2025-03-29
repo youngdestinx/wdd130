@@ -167,8 +167,8 @@ article img {
 }
 
 .find img {
-    max-width: 250px;
-    height: 250px;
+    max-width: 500px;
+    height: auto;
     object-fit: contain;
     margin: 5;
 }
