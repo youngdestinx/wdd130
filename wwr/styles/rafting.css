@@ -75,3 +75,20 @@ article {
     justify-content: space-between;
     gap: 100px;
 }
+
+article p {
+    flex: 4;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 50%;
+    text-align: center;
+    border: 3px, solid #D89D6A;
+    border-radius: 5px;
+    background: #1B2CC1;
+}
+
+article img {
+    flex: 1;
+    width: 200px;
+    margin-left: 100px;
+}
