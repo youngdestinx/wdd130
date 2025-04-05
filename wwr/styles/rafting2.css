@@ -116,6 +116,7 @@ footer p {
 
 .meet {
     display: flex;
+    justify-content: space-between;
 }
 .email,
 .talk {
