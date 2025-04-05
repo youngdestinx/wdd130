@@ -129,12 +129,12 @@ footer p {
 }
 
 .quarters {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto 1fr;
     justify-content: space-between;
 }
 .visit {
-    flex: 1;
-    margin-left: 75%;
+    margin-left: 50px;
 }
 .text {
     text-align: center;
