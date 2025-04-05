@@ -110,5 +110,6 @@ footer p {
 
 .reach {
     display: flex;
+    flex: 1fr 1fr;
     flex-direction: row;
 }
