@@ -118,6 +118,9 @@ footer p {
     display: flex;
     justify-content: space-between;
     gap: 50px;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
 }
 .email,
 .talk {
