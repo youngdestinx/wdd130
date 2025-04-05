@@ -128,3 +128,8 @@ footer p {
     display: flex;
     justify-content: space-between;
 }
+
+.text h2,
+.tex p {
+    text-align: center;
+}
