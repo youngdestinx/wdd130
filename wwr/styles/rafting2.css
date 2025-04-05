@@ -110,6 +110,10 @@ footer p {
 
 .reach {
     display: flex;
-    flex: 1fr 1fr;
+}
+
+.office,
+.meet {
+    flex: 1;
     flex-direction: row;
 }
