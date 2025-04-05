@@ -140,7 +140,6 @@ footer p {
 
 .visit h2, .visit h3, .visit p {
     margin-bottom: 100px;
-    margin-left: 100px;
 }
 section iframe {
     margin-left: 200px;
@@ -159,4 +158,56 @@ h1, h2, h3, p {
     background: black;
     color: #FCFFFD;
     margin: 10px 100px;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input [type="text"],
+input [type="email"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+
+.radio-group {
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+.radio-group label {
+    display: block;
+    font-weight: normal;
+}
+
+.checkbox-group {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #0078ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
 }
