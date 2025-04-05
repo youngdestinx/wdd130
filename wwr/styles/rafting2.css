@@ -131,7 +131,7 @@ footer p {
 .quarters {
     display: grid;
     grid-template-columns: auto 1fr;
-    justify-content: space-between;
+    justify-content: center;
     gap: 50px;
 }
 .visit {
