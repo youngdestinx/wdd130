@@ -133,9 +133,6 @@ footer p {
     text-align: center;
 }
 
-.form {
-    display: grid;
-    grid-template-rows: auto, 1fr 1fr;
-    justify-content: space-between;
-    gap: 20px;
+.office h2, p {
+    text-align: center;
 }
