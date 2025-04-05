@@ -111,10 +111,13 @@ footer p {
 .reach {
     display: grid;
     grid-template-rows: auto auto;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .meet {
     display: flex;
 }
-
+.email,
+.talk {
+    flex: 1;
+}
