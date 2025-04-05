@@ -140,6 +140,7 @@ footer p {
 
 .visit h2, .visit h3, .visit p {
     margin-bottom: 100px;
+    margin-left: 100px;
 }
 section iframe {
     margin-left: 200px;
