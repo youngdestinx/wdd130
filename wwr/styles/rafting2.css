@@ -132,6 +132,7 @@ footer p {
     display: grid;
     grid-template-columns: auto 1fr;
     justify-content: space-between;
+    gap: 50px;
 }
 .visit {
     margin-left: 50px;
