@@ -136,4 +136,5 @@ footer p {
 .form {
     display: grid;
     grid-template-rows: auto auto auto auto auto;
+    gap: 20px;
 }
