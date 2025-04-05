@@ -114,3 +114,7 @@ footer p {
     justify-content: center;
 }
 
+.meet {
+    display: flex;
+}
+
