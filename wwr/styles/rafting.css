@@ -25,6 +25,7 @@ header {
     color: #FCFFFD;
 }
 
+
 .logo img {
     max-width: 120px;
     height: auto;
@@ -38,6 +39,7 @@ nav {
     border-radius: 10px;
     margin-right: 75px;       
 }
+
 
 .name a {
     flex: 1;
@@ -212,3 +214,4 @@ footer p {
     border: 3px solid blue;
     object-fit: contain;
 }
+
