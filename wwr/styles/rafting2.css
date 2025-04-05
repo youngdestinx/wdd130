@@ -127,6 +127,5 @@ footer p {
 .quarters {
     display: flex;
     justify-content: space-between;
-    gap: 50px;
     flex: 1  3;
 }
