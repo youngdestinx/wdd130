@@ -123,3 +123,9 @@ footer p {
 .talk {
     flex: 1;
 }
+
+.quarters {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
