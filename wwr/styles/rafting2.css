@@ -137,6 +137,10 @@ footer p {
 .visit {
     margin-left: 50px;
 }
+
+.iframe {
+    align-content: flex-end;
+}
 .text {
     text-align: center;
 }
