@@ -127,5 +127,4 @@ footer p {
 .quarters {
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
