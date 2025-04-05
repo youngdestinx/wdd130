@@ -111,6 +111,7 @@ footer p {
 .reach {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .office,
