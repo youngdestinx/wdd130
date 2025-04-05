@@ -130,7 +130,7 @@ footer p {
 
 .quarters {
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: 1fr 2fr;
     justify-content: center;
     gap: 50px;
 }
