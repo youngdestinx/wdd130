@@ -133,3 +133,7 @@ footer p {
     text-align: center;
 }
 
+.form {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+}
