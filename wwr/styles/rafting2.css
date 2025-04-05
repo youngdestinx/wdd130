@@ -133,13 +133,14 @@ footer p {
     grid-template-columns: 1fr 2fr;
     justify-content: center;
     gap: 50px;
+    margin-bottom: 50px;
 }
 .visit {
     margin-left: 50px;
 }
 
 .iframe {
-    justify-self: flex-end;
+    margin-left: 200px;
 }
 .text {
     text-align: center;
