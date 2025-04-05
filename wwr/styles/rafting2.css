@@ -139,7 +139,7 @@ footer p {
 }
 
 .iframe {
-    align-content: flex-end;
+    justify-self: flex-end;
 }
 .text {
     text-align: center;
