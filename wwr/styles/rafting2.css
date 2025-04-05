@@ -140,3 +140,10 @@ footer p {
 h1, h2, h3, p {
     text-align: center;
 }
+
+.email p:nth-child(2) {
+    border: 5px solid black;
+    padding: 20px;
+    background: black;
+    color: #FCFFFD;
+}
