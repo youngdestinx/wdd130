@@ -110,12 +110,7 @@ footer p {
 
 .reach {
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto auto;
     justify-content: center;
 }
 
-.office,
-.meet {
-    flex: 1;
-    
-}
