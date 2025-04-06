@@ -200,8 +200,8 @@ textarea {
 button {
     margin-top: 15px;
     padding: 10px 15px;
-    background-color: #0078ff;
-    color: black;
+    background-color: #f9f9f9;
+    color: #121212;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -210,4 +210,9 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+.sociallinks:nth-child(4) {
+    background: #121212;
+    color: #FCFFFD;
 }
