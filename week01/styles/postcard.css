@@ -92,3 +92,13 @@ button {
     cursor: pointer;
     transform: rotate(-1.5deg);
 }
+
+button:after {
+    content: ">>>";
+}
+
+button:hover,
+button:focus {
+    background: #000;
+    color: #fff;
+}
