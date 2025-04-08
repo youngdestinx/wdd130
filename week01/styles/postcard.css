@@ -60,4 +60,10 @@ label {
 input,
 textarea {
     font: 1.4em/1.5em "handwritting", cursive, sans-serif;
+    border: none;
+    padding: 0 10px;
+    margin: 0;
+    width: 80%;
+    background: none;
 }
+
