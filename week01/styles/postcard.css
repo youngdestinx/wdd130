@@ -57,3 +57,7 @@ label {
     0.8em "typewriter", sans-serif;
 }
 
+input,
+textarea {
+    font: 1.4em/1.5em "handwritting", cursive, sans-serif;
+}
