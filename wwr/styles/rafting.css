@@ -254,6 +254,10 @@ section iframe {
     text-align: center;
 }
 
+.text h2,
+.text p {
+    color: #121212;
+}
 h1, h2, h3, p {
     text-align: center;
 }
