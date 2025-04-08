@@ -34,5 +34,5 @@ form {
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 10cm 1em 1em 1em;
+    grid-template-rows: 10em 1em 1em 1em;
 }
