@@ -67,3 +67,8 @@ textarea {
     background: none;
 }
 
+input:focus
+textarea:focus {
+    background: rgb(000/10%);
+    border-radius: 5px;
+}
