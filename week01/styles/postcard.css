@@ -82,3 +82,13 @@ textarea {
     border-right: 1px solid;
     overflow: auto;
 }
+
+button {
+    padding: 5px;
+    font: bold 0.6em sans-serif;
+    border: 2px solid #333;
+    border-radius: 5px;
+    background: none;
+    cursor: pointer;
+    transform: rotate(-1.5deg);
+}
