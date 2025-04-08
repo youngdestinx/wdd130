@@ -152,7 +152,8 @@ article img {
     margin-bottom: 250px; 
 }
 
-.adventure {
+.adventure,
+.employee {
     display: grid;
     grid-template-rows: auto 1fr;
     gap: 2px;
@@ -215,3 +216,111 @@ footer p {
     object-fit: contain;
 }
 
+.reach {
+    display: grid;
+    grid-template-rows: auto auto;
+    justify-content: space-around;
+}
+
+.meet {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.email,
+.talk {
+    flex: 1;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.quarters {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    gap: 50px;
+}
+.visit {
+    margin-left: 50px;
+}
+
+.visit h2, .visit h3, .visit p {
+    margin-bottom: 100px;
+}
+section iframe {
+    margin-left: 200px;
+}
+.text {
+    text-align: center;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+.talk :nth-child(3) {
+    border: 5px solid black;
+    padding: 20px;
+    background: black;
+    color: #FCFFFD;
+    margin: 10px 100px;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input [type="text"],
+input [type="email"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+
+.radio-group {
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+.radio-group label {
+    display: block;
+    font-weight: normal;
+}
+
+.checkbox-group {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #1B2CC1;
+    color: #FCFFFD;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.sociallinks :nth-child(4) {
+    border: 3px solid blue;
+    color: #121212;
+}
