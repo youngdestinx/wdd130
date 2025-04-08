@@ -22,3 +22,17 @@ body {
     margin: 0;
     background: #222;
 }
+
+form {
+    position: relative;
+    width: 740px;
+    height: 448px;
+    margin: 0 auto;
+    padding: 1em;
+    box-sizing: border-box;
+    background: #fff url(background.jpg);
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 10cm 1em 1em 1em;
+}
