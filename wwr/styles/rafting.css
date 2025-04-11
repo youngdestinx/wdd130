@@ -379,3 +379,15 @@ object-fit: contain;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
 }
+
+#action button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #62C370;
+    color: #1B2CC1;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    align-self: center;
+}
