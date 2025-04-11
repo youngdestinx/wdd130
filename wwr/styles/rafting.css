@@ -370,7 +370,7 @@ button:hover {
 flex: 1 1 100px;
 max-width: 500px;
 max-height: 55%;
-border: 6px solid blue;
+border: 6px solid #62C370;
 object-fit: contain;
 }
 
