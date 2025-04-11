@@ -358,7 +358,7 @@ button:hover {
     display: grid;
     grid-template-columns: repeat(3, 200px);
     grid-template-rows: 1fr;
-    row-gap: 100px;
+    column-gap: 100px;
 }
 
 #home-photo img {
