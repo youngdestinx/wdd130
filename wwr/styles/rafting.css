@@ -372,14 +372,6 @@ border: 6px solid #62C370;
 object-fit: contain;
 }
 
-.newsletter form {
-    position: relative;
-    background-color: rgba(0, green, 0, 5);
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(3, auto);
-}
-
 #action {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
@@ -406,4 +398,12 @@ object-fit: contain;
 
 #action a {
     text-decoration: none;
+}
+
+#form form {
+    position: relative;
+    background-color: rgba(0, green, 0, 5);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, auto);
 }
