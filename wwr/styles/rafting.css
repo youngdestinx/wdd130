@@ -357,7 +357,7 @@ button:hover {
 #home-photo {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 10em;
+    grid-template-rows: 15em;
     column-gap: 100px;
     padding-top: 50px;
     padding-left: 50px;
