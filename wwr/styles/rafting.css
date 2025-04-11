@@ -366,7 +366,7 @@ button:hover {
 flex: 1 1 100px;
 max-width: 500px;
 max-height: 55%;
-border: 3px solid blue;
+border: 6px solid blue;
 object-fit: contain;
 }
 
