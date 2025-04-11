@@ -396,7 +396,6 @@ object-fit: contain;
     margin: auto;
     display: block;
     padding: 10px 15px;
-    text-decoration: none;
     background-color: #62C370;
     color: #1B2CC1;
     border: none;
@@ -407,4 +406,9 @@ object-fit: contain;
 
 #action h2 {
     color: #1B2CC1;
+}
+
+#action a {
+    text-decoration: none;
+    font-weight: bold;
 }
