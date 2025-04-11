@@ -326,30 +326,3 @@ button:hover {
     border: 3px solid blue;
     color: #121212;
 }
-
-.vex {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    overflow: overlay;
-}
-
-#home img {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: -1;
-}
-
-.vex h1 {
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 3rem;
-    color: var(--accent2-color);
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    width: 100%;
-    text-align: center;
-    position: relative;
-}
