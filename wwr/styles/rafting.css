@@ -373,7 +373,8 @@ border: 6px solid #62C370;
 object-fit: contain;
 }
 
-.newsletter form {
+.newsletter form,
+#action {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
