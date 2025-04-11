@@ -402,6 +402,8 @@ object-fit: contain;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    font-family: var(--font-family);
+    font-weight: bolder;
 }
 
 #action h2 {
@@ -410,6 +412,4 @@ object-fit: contain;
 
 #action a {
     text-decoration: none;
-    font-family: var(--font-family);
-    font-weight: bolder;
 }
