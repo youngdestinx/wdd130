@@ -359,7 +359,10 @@ button:hover {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
     column-gap: 100px;
-    padding: 0 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0;
     
 }
 
