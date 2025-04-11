@@ -359,11 +359,10 @@ button:hover {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
     column-gap: 100px;
-    margin-top: 100px;
     padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 0;
+    padding-bottom: -30px;
 }
 
 #home-photo img {
