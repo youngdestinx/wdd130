@@ -372,12 +372,6 @@ border: 6px solid #62C370;
 object-fit: contain;
 }
 
-.rapper {
-    background-color: #1B2CC1;
-    padding: 20px;
-    width: 100%;
-}
-
 .newsletter form {
     position: relative;
     background-color: rgba(0, green, 0, 5);
