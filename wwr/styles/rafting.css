@@ -357,7 +357,6 @@ button:hover {
 #home-photo {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 1fr;
     column-gap: 100px;
     padding-top: 50px;
     padding-left: 50px;
@@ -379,8 +378,15 @@ object-fit: contain;
     grid-template-rows: repeat(3, auto);
 }
 
+#action {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+}
+
 #action button {
+    grid-row: 2;
     margin: auto;
+    display: block;
     padding: 10px 15px;
     background-color: #62C370;
     color: #1B2CC1;
@@ -388,5 +394,4 @@ object-fit: contain;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    display: block;
 }
