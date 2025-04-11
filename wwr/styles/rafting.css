@@ -367,6 +367,7 @@ max-width: 500px;
 max-height: 60%;
 border: 3px solid blue;
 object-fit: contain;
+margin: 200px;
 }
 
 .newsletter form {
