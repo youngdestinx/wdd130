@@ -373,15 +373,14 @@ border: 6px solid #62C370;
 object-fit: contain;
 }
 
-.newsletter form,
-#action {
+.newsletter form {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
 }
 
 #action button {
-    margin-top: 15px;
+    margin: auto;
     padding: 10px 15px;
     background-color: #62C370;
     color: #1B2CC1;
@@ -390,5 +389,4 @@ object-fit: contain;
     cursor: pointer;
     font-size: 16px;
     display: block;
-    align-self: center;
 }
