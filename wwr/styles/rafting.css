@@ -410,5 +410,6 @@ object-fit: contain;
 
 #action a {
     text-decoration: none;
+    font-family: var(--font-family);
     font-weight: bolder;
 }
