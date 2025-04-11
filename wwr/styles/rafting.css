@@ -354,6 +354,12 @@ button:hover {
     position: relative;
 }
 
+#home-photo {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    flex: 1 1 100px;
+}
+
 .newsletter form {
     display: grid;
     grid-template-columns: 1fr;
