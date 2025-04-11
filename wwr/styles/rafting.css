@@ -361,6 +361,10 @@ button:hover {
     row-gap: 100px;
 }
 
+#home-photo img {
+flex: 1 1 100px;
+}
+
 .newsletter form {
     display: grid;
     grid-template-columns: 1fr;
