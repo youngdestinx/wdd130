@@ -359,11 +359,7 @@ button:hover {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
     column-gap: 100px;
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 0;
-    
+    margin-top: 100px; 
 }
 
 #home-photo img {
@@ -372,6 +368,10 @@ max-width: 500px;
 max-height: 55%;
 border: 6px solid #62C370;
 object-fit: contain;
+padding-top: 50px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 0;
 margin-top: 100px;
 }
 
