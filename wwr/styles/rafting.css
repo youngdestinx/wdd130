@@ -415,7 +415,6 @@ object-fit: contain;
     width: 750px;
     height: auto;
     object-fit: cover;
-    padding: 20px 40px;
     border: 5px solid #1B2CC1;
     border-radius: 5px;
 }
