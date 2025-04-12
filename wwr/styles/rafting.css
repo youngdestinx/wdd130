@@ -90,8 +90,9 @@ article {
     flex: 4;
     font-family: var(--font-family);
     font-weight: bold;
-    color: #62C370;
+    color: orange;
     padding: 10px;
+    text-shadow: 1px 1px 1px #1B2CC1;
 }
 
 .text p {
@@ -100,7 +101,8 @@ article {
     font-weight: 400;
     font-size: 20px;
     padding: 10px;
-    color: #FCFFFD;
+    color: orange;
+    text-shadow: 1px 1px 1px #1B2CC1;
 }
 
 article img {
@@ -123,7 +125,7 @@ article img {
     font-weight: 400;
     font-size: 18px;
     padding: 20px;
-    color: #FCFFFD;
+    color: black;
     margin-top: 65px;
 }
 
